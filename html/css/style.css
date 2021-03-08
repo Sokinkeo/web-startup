@@ -1,0 +1,70 @@
+body{
+	background-color: #DFCFBE;
+	font-family: Arial;
+	border-style: solid;
+	font-size: 30px;
+	padding: 20px;
+}
+h1{
+	text-align: center;
+	color: white;
+}
+h2{
+	text-align: center;
+	color: red;
+}
+h3{
+	color: blue;
+	margin: 10px;
+}
+h5{
+	text-align: center;
+	font-size: 30px;
+}
+p {
+	margin: 10px 10px 10px 10px;
+
+}
+table, th{
+	margin: auto;
+	text-align: center;
+	border: 1px solid black;
+	padding: 10px;
+
+}
+.menu{
+	font-size: 20px;
+	text-align: center;
+
+}
+.content{
+	margin-top: 80px;
+}
+.logo{
+	position:absolute;
+	margin: 10px;
+	left:10px;
+	top:10px;
+	width: 100px;
+	height: 100px;
+
+}
+.red{
+	color: red;
+}
+.small{
+	font-size: 15px;
+}
+.sad{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	margin-left: 10px;
+}
+div.bird{
+	border: solid brown 5px;
+}
+.birdp{
+	margin-left: 100px;
+}
+
